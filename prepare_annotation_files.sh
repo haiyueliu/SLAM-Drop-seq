@@ -7,7 +7,7 @@
 #########
 # usage #
 #########
-USAGE="$0 <fasta-input-file> <dtf-input-file> \
+USAGE="$0 <fasta-input-file> <gtf-input-file> \
 	<dict-outputfile> <gene_info-outputfile> \
 	<exon-output-file> <intron-output-file>
 	<ambiguous-bed-output-file> <exon-unambigous-bed-output-file> \
